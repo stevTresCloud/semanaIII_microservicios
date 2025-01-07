@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: actividadiii
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/microservicio
+      database: microservicio
+  main:
+    allow-bean-definition-overriding: true # Evita conflictos de beans en algunos casos
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+
+server:
+  port: 8080

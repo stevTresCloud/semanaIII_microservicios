@@ -1,0 +1,6 @@
+com\semana_iii\actividadiii\microservicio_mysql\controller\ProductController.class
+com\semana_iii\actividadiii\microservicio_mysql\SemanaIiiActividadIiApplication.class
+com\semana_iii\actividadiii\microservicio_mysql\service\ProductService.class
+com\semana_iii\actividadiii\microservicio_mysql\entity\ProductEntity.class
+com\semana_iii\actividadiii\microservicio_mysql\repository\ProductRepository.class
+com\semana_iii\actividadiii\microservicio_mysql\SwaggerConfig.class
